@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+inhibit_all_warnings!
+
+target 'BeautyDemo' do
+    use_frameworks!
+    pod 'GPUImage'
+end
